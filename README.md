@@ -37,4 +37,3 @@ Oracle Fusion Cloud Applications ofrece una suite completa para optimizar proces
 
 ---
 
-En resumen, Oracle Cloud es una solución robusta diseñada para ayudar a las empresas a mejorar su eficiencia operativa, optimizar procesos y responder rápidamente a los cambios del mercado mientras mantienen altos estándares de seguridad.
